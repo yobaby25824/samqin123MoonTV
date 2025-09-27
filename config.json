@@ -447,9 +447,9 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "细胞采集黄色"
     },
-    "qiqidys": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
+    "tmyy": {
+      "api": "https://tmyy.cc/api.php/provide/vod/",
+      "name": "V天美资源"
     }
   }
 }
